@@ -233,7 +233,7 @@ header a.logo img {max-height:50px; max-width: 200px;vertical-align: sub;}
 }
 
 .header-with-top ~ .home{
-    padding-top: 125px !important;
+    padding-top: 116px !important;
     padding-bottom: 0;
 }
 
@@ -965,8 +965,8 @@ i::after {
 .page-title{
     position:relative;
     text-align:center;
-    margin-top: 125px;
-    padding:125px 0px 125px;
+    margin-top: 115px;
+    padding:115px 0px 115px;
     background:url("../img/main/zavod.jpg");
     background-size: cover;
     background-position: center center;
@@ -1630,7 +1630,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
 	.navbar .nav-item .dropdown-menu{ display: none; }
 	.navbar .nav-item:hover .nav-link{   }
 	.navbar .nav-item:hover .dropdown-menu{ display: block; }
-	.navbar .nav-item .dropdown-menu{ margin-top:-20px; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0px; }
 }
 
 @media screen and (max-width: 1200px) {
@@ -1787,11 +1787,11 @@ input.inputerror, textarea.inputerror, select.inputerror {
         font-size: 13px;
     }
     .header-with-top ~ .home {
-        padding-top: 108px !important;
+        padding-top: 115px !important;
      }
 
     .page-title{
-        margin-top: 108px;
+        margin-top: 115px;
     }
 
 
