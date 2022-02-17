@@ -967,9 +967,9 @@ i::after {
     text-align:center;
     margin-top: 125px;
     padding:125px 0px 125px;
-    background:url("../img/blog-cover.jpg");
+    background:url("../img/main/zavod.jpg");
     background-size: cover;
-    background-position: top center;
+    background-position: center center;
 }
 
 .page-title .auto-container{
