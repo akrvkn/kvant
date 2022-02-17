@@ -1715,6 +1715,7 @@ input.inputerror, textarea.inputerror, select.inputerror {
 
     .navbar-collapse{
         padding-bottom: 10px;
+        background-color: white;
     }
 
     .navbar.navbar-static .nav-link.active {
